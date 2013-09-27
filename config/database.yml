@@ -8,8 +8,7 @@ development:
 
 
 production:
-  production:
-  adapter: mysql2            
+  adapter: postgresql            
   host: < host >                          # VM IP
   port: < port >                          # VM Port 
   database: < database name >             # Database Name
